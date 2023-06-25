@@ -3,6 +3,9 @@ files to replicate the FA-4919 cross sectional unit on top of the Ecto-1 (Ghostb
 
 ![image](https://github.com/OfficerSkidmark/FA-4919-Cross-Sectional-Unit/assets/110629277/e8dc9667-2ad4-476f-831a-548c0debf7ac)
 
+![image](https://github.com/OfficerSkidmark/FA-4919-Cross-Sectional-Unit/assets/110629277/8db2135c-deee-4d64-b648-2eb42cb07fb1)
+
+
 The project started in 2021, I wanted to install this unique piece of equipment onto my ecto, Ecto XV, after some time of looking at options I decided to make my own. this was made using many photos available online of the original ecto 1's roof rack and sketches that were available in the Ghostbusters Hanes service manual. I attempted to reach out to Texas Instruments and later Raytheon (current owners of the TI Aerospace division) to try and find more accurate mechanical drawings of this device with no luck. therfore i cant guarentee this is 100% accurate due to my limited resources. this is still a WIP as i have yet to build this version of the cross sectional and cant guarentee perfect fit up. 
 
 Gallery:
