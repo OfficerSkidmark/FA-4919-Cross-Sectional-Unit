@@ -32,3 +32,5 @@ Gallery:
 ![image](https://github.com/OfficerSkidmark/FA-4919-Cross-Sectional-Unit/assets/110629277/916d72ef-0d4b-4d25-92bf-916ebda073df)
 
 (Prototype 2 mounted on Ecto WK, Data Plate and dial decals on)
+
+these files are being released to everyone for free, as my gift to this community which has been a part of my life since 2016. my only ask is to share your builds! many have asked me to include a Tip/Donation path which is found here: (https://paypal.me/TristenLapish?country.x=US&locale.x=en_US) 
